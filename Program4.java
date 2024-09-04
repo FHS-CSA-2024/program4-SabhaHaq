@@ -7,6 +7,11 @@ public class Program4 {
          int num2 = 821; 
          int num3 = 369;
          int num4 = 562; 
+
+          //Get user input for num1-4
+
+
+          
         int sum = (num1+num2+num3+num4); 
         double average = (sum)/4.0;
         System.out.println("The sum of the four numbers is " + sum); 
