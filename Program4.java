@@ -9,7 +9,8 @@ public class Program4 {
          int num4 = 562; 
         int sum = (num1+num2+num3+num4); 
         double average = (sum)/4.0;
-        System.out.println("The sum of the four numbers is " + sum); 
+        System.out.println("The sum of the four numbers is " + sum);
+        System.out.println("");
         System.out.println("The average of the four numbers is " + average);
 }
 }
